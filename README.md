@@ -1,6 +1,8 @@
- 
+import os
+
+# Definindo o conteúdo HTML e CSS para o marketplace agrícola
 html_content = """
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="pt-PT">
 <head>
     <meta charset="UTF-8">
