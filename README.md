@@ -1,7 +1,4 @@
-# prog-agrinho-2026
-import os
-
-# Definindo o conteúdo HTML e CSS para o marketplace agrícola
+ 
 html_content = """
 <!DOCTYPE html> 
 <html lang="pt-PT">
